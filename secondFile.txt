@@ -1,5 +1,7 @@
 line 1 - updated in step 5
 line 2 - updated in step 5
+line 1 - updated in step 4
+line 2 - updated in step 4
 line 3
 line 4
 line 5
